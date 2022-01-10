@@ -15,8 +15,8 @@
 
 <h2>Additional Explanation Videos</h2>
 
-Communication between Fischertechnik Production Sytem and ERPsystem Transfact: https://youtu.be/RLKpROatXIc
-Digital & Physical Structure of the Fischertechnik Production System: https://youtu.be/EaadN3R4mmk
+Communication between Fischertechnik Production Sytem and ERPsystem Transfact: https://youtu.be/RLKpROatXIc</p>
+Digital & Physical Structure of the Fischertechnik Production System: https://youtu.be/EaadN3R4mmk</p>
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
@@ -25,7 +25,7 @@ Digital & Physical Structure of the Fischertechnik Production System: https://yo
 
 <p><iframe src="https://www.youtube.com/embed/U82k1ETzMbE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
 
-Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS
+Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS</p>
 
 [Table_Arrival_Template.xlsx](https://github.com/twillo-lehre-teilen/Lernfabrik/files/7838050/Table_Arrival_Template.xlsx)
 
