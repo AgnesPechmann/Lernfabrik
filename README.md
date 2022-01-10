@@ -27,4 +27,12 @@ Digital & Physical Structure of the Fischertechnik Production System: https://yo
 
 Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS
 
-Table Arrival Template
+[Table_Arrival_Template.xlsx](https://github.com/twillo-lehre-teilen/Lernfabrik/files/7838050/Table_Arrival_Template.xlsx)
+
+
+<h2>Scientific Publications</h2>
+
+https://doi.org/10.1016/j.promfg.2020.04.068
+https://doi.org/10.1016/j.promfg.2019.03.059
+https://doi.org/10.1109/INDIN41052.2019.8972065
+CLF 2022 Paper (welches demnächst noch veröffentlicht wird) Link hier einfügen
