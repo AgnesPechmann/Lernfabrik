@@ -10,3 +10,5 @@
 <li>a modular structure with a plug &amp; play function of the production system.</li>
 </ul>
 <p>The individual machining centers are integrated into a service architecture, which is gradually extended within the project by sensors and measuring devices for data acquisition and services, such as simulations.</p>
+
+<p><iframe src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></p>
