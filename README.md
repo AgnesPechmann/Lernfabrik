@@ -1,5 +1,6 @@
-<h1 style="color:#8b0000">Introduction</h1>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<h1 style="color:#8b0000">Virtual Learning Factory</h1>
+
+<h2>1 Introduction</h2>
 
 The Learning Factory 4.0 aims to represent an Industry 4.0 conform production system to teach how a production management system can digitally be connected with a production; producing different products. Moreover, it is presented how different production data (e.g., status information, processing time, energy demand) can be used for simulation-based production planning and controlling processes according to sustainability aspects.
 
