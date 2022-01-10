@@ -32,7 +32,7 @@ Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-
 
 <h2>Scientific Publications</h2>
 
-https://doi.org/10.1016/j.promfg.2020.04.068
-https://doi.org/10.1016/j.promfg.2019.03.059
-https://doi.org/10.1109/INDIN41052.2019.8972065
+https://doi.org/10.1016/j.promfg.2020.04.068</p>
+https://doi.org/10.1016/j.promfg.2019.03.059</p>
+https://doi.org/10.1109/INDIN41052.2019.8972065</p>
 CLF 2022 Paper (welches demnächst noch veröffentlicht wird) Link hier einfügen
