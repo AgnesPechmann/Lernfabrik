@@ -38,4 +38,5 @@
 
 <h2>License</h2>
 The Virtual Learning Factory created by Agnes Pechmann and Maximilian Zarte is - unless otherwise indicated on individual objects - licensed under the license</p>
-![CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)</p>
+
+[(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)
