@@ -27,7 +27,7 @@ Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-
 
 <h2>Scientific Publications</h2>
 
-![Implementing an Energy Management System in a Learning Factory – A Project-Based Learning Approach](https://doi.org/10.1016/j.promfg.2020.04.068)</p>
+Implementing an Energy Management System in a Learning Factory – A Project-Based Learning Approach: https://doi.org/10.1016/j.promfg.2020.04.068</p>
 ![Using a semi-automated job-shop production system model to prepare students for the challenges of Industrial Cyber-Physical Systems](https://doi.org/10.1016/j.promfg.2019.03.059)</p>
 ![Concept, Challenges, and Learning Benefits Developing an Industry 4.0 Learning Factory with Student Projects](https://doi.org/10.1109/INDIN41052.2019.8972065)</p>
 
