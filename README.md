@@ -11,8 +11,8 @@ https://www.youtube.com/embed/bqBS_RpqOy8
 
 <h2>Additional Explanation Videos</h2>
 
-![Communication between Fischertechnik Production Sytem and ERPsystem Transfact](https://youtu.be/RLKpROatXIc)</p>
-![Digital & Physical Structure of the Fischertechnik Production System](https://youtu.be/EaadN3R4mmk)
+Communication between Fischertechnik Production Sytem and ERPsystem Transfact: https://youtu.be/RLKpROatXIc </p>
+Digital & Physical Structure of the Fischertechnik Production System: https://youtu.be/EaadN3R4mmk </p>
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
@@ -20,9 +20,9 @@ https://www.youtube.com/embed/bqBS_RpqOy8
 
 </p>It was impossible to access the physical Learning Factory 4.0 remotely, and students were unable to interact with the system for their project works. Therefore, the physical Learning Factory 4.0 has been transferred to a virtual learning factory to enable online access for the students. The virtual learning factory represents a digital model of the physical learning factory without digital connections to the physical system. The digital model was created in AnyLogic® and is accessible through the AnyLogic® Cloud. The AnyLogic® Cloud is a secure web platform for running simulations. The platform provides easy access to private and public simulations, even if the user does not use the AnyLogic® software. The virtual learning factory provides similar functionalities and data as its physical twin. The data, e.g., processing times, energy demands, production failures, can be exported to EXCEL for further analysis. With the aid of action buttons or imported production schedules, the warehouse can be loaded with new material, which can then be released to the production system. Moreover, 3D models provided by fischertechnik are used to visualize the production system as realistic as possible.</p>
 
-![Handling of the Virtual Learning Factory Video](https://www.youtube.com/embed/U82k1ETzMbE)</p>
+Handling of the Virtual Learning Factory Video: https://www.youtube.com/embed/U82k1ETzMbE </p>
 
-![Virtual Learning Factory Access](https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS)</p>
+Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS </p>
 [Table_Arrival_Template.xlsx](https://github.com/twillo-lehre-teilen/Lernfabrik/files/7838050/Table_Arrival_Template.xlsx)
 
 <h2>Scientific Publications</h2>
