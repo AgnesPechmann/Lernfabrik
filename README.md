@@ -1,6 +1,6 @@
 <h1 style="color:#8b0000">Virtual Learning Factory</h1>
 
-<h2>Introduction</h2>
+<h2 id="1">Introduction</h2>
 
 <p>The physical Learning Factory 4.0 is located in the production planning lab of the University of Applied Sciences Emden/Leer and demonstrates a shop floor production consisting of a high-bay warehouse, machining centers with conveyor belts, and robots with pneumatic and electric grippers and optical quality control. The learning factory aims to represent an Industry 4.0 conform production system to teach how an enterprise resource planning (ERP) system can digitally be connected with a production system to produce different products. Moreover, it is presented how different production data (e.g., status information, processing time, energy demand) can be used for simulation-based production planning and controlling processes according to sustainability aspects. Production data are offered to digital services with the help of measuring devices and digital interfaces. Production data are offered to digital services with the help of measuring devices and digital interfaces.</p>
 
@@ -16,7 +16,7 @@
 
 ---
 
-<h2>Additional Explanation Videos</h2>
+<h2 id="2">Additional Explanation Videos</h2>
 
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
 <center>
@@ -37,7 +37,7 @@ Digital & Physical Structure of the Fischertechnik Production System:
 
 ---
 
-<h2>Virtual Learning Factory 4.0 (How To)</h2>
+<h2 id="3">Virtual Learning Factory 4.0 (How To)</h2>
 
 <p>The COVID-19 pandemic is a global crisis and affects humans regardless of nationality, level of education, income, and gender. The actions to control the COVID-19 pandemic (e.g., lockdowns) have disturbed, for example, conventional schooling through school and university closures worldwide. In lockdown periods, students have to rely more on their own resources (e.g., computer, internet connection) to continue learning remotely. However, lecturers also have to adapt to these new teaching conditions. Common lecture and learning factory concepts have been transferred in online formats.</p>
 
@@ -57,7 +57,7 @@ Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-
 
 ---
 
-<h2>Scientific Publications</h2>
+<h2 id="4">Scientific Publications</h2>
 
 Implementing an Energy Management System in a Learning Factory – A Project-Based Learning Approach: https://doi.org/10.1016/j.promfg.2020.04.068</p>
 [Using a semi-automated job-shop production system model to prepare students for the challenges of Industrial Cyber-Physical Systems](https://doi.org/10.1016/j.promfg.2019.03.059)</p>
@@ -65,14 +65,14 @@ Implementing an Energy Management System in a Learning Factory – A Project-Bas
 
 ---
 
-<h2>Contact</h2>
+<h2 id="5">Contact</h2>
 </p>Prof. Dr.-Ing. Agnes Pechmann</p>
 </p>University of Applied Sciences Emden/Leer</p>
 </p>agnes.pechmann@hs-emden-leer.de</p>
 
 ---
 
-<h2>License</h2>
+<h2 id="6">License</h2>
 The Virtual Learning Factory created by Agnes Pechmann and Maximilian Zarte is - unless otherwise indicated on individual objects - licensed under the license (excluding external links)</p>
 
 [(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/legalcode)
