@@ -7,7 +7,7 @@
 <p>The transparency of the system (from process level to management level) is made possible by communication between the individual elements of the system (e.g., the Fischertechnik modules and the various information management systems). Each Fischertechnik module is equipped with a TXT controller, which does not support an interface for direct communication with a database (e.g., Oracle database of the ERP system). Therefore, all TXT controllers in the Fischertechnik production system are extended by one Raspberry Pi (mini-computer). This allows communication between the individual processing centers and the ERP system. </p>
 <p>The individual machining centers are integrated into a service architecture, which is gradually extended within the project by sensors and measuring devices for data acquisition and services, such as simulations.</p>
 
-<figure>
+<figure width="600px;">
   <iframe width="100%" height="500px" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
