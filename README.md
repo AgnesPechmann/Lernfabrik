@@ -15,6 +15,8 @@ https://www.youtube.com/embed/bqBS_RpqOy8
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact: https://youtu.be/RLKpROatXIc </p>
 Digital & Physical Structure of the Fischertechnik Production System: https://youtu.be/EaadN3R4mmk </p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
 <p>The COVID-19 pandemic is a global crisis and affects humans regardless of nationality, level of education, income, and gender. The actions to control the COVID-19 pandemic (e.g., lockdowns) have disturbed, for example, conventional schooling through school and university closures worldwide. In lockdown periods, students have to rely more on their own resources (e.g., computer, internet connection) to continue learning remotely. However, lecturers also have to adapt to these new teaching conditions. Common lecture and learning factory concepts have been transferred in online formats.</p>
