@@ -7,27 +7,27 @@
 <p>The transparency of the system (from process level to management level) is made possible by communication between the individual elements of the system (e.g., the Fischertechnik modules and the various information management systems). Each Fischertechnik module is equipped with a TXT controller, which does not support an interface for direct communication with a database (e.g., Oracle database of the ERP system). Therefore, all TXT controllers in the Fischertechnik production system are extended by one Raspberry Pi (mini-computer). This allows communication between the individual processing centers and the ERP system. </p>
 <p>The individual machining centers are integrated into a service architecture, which is gradually extended within the project by sensors and measuring devices for data acquisition and services, such as simulations.</p>
 
-<figure width="600px;">
+<figure style="width:600px;">
   <iframe width="100%" height="500px" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
-</p>
+<br>
 
 <h2>Additional Explanation Videos</h2>
 
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
-<figure>
+<figure style="width:1000px;">
   <iframe height="400px" padding-bottom="0px" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;margin:0px;">Video 2: Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact</figcaption>
 </figure>
-</p>
+<br>>
  
 Digital & Physical Structure of the Fischertechnik Production System:
-<figure>
+<figure style="width:70%;">
   <iframe height="450px" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
   <figcaption style="text-align:center;font-size:18px;margin:0px;">Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
 </figure>
-</p>
+<br>>
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
@@ -40,6 +40,7 @@ Handling of the Virtual Learning Factory Video:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/U82k1ETzMbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Background & Handling of the Virtual Learning Factory"></iframe>
   <figcaption style="text-align:center;font-size:18px;">Video 4: Background & Handling of the Virtual Learning Factory</figcaption>
 </figure>
+<br>
 
 Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS </p>
 [Table_Arrival_Template.xlsx](https://github.com/twillo-lehre-teilen/Lernfabrik/files/7838050/Table_Arrival_Template.xlsx)
