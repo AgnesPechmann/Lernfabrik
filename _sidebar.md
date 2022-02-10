@@ -2,7 +2,7 @@
 
 <br>
 
-* [Introduction](README#_c1)
+* [Introduction](README#c1)
 
 * [Additional Explanation Videos](README#c2)
 
@@ -10,6 +10,6 @@
 
 * [Scientific Publications](README#c4)
 
-* <a href="./#/README#c5">Contact</a>
+* [Contact](README#c5)
 
 * [License](README#c6)
