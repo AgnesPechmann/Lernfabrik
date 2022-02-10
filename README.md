@@ -7,7 +7,7 @@
 <p>The transparency of the system (from process level to management level) is made possible by communication between the individual elements of the system (e.g., the Fischertechnik modules and the various information management systems). Each Fischertechnik module is equipped with a TXT controller, which does not support an interface for direct communication with a database (e.g., Oracle database of the ERP system). Therefore, all TXT controllers in the Fischertechnik production system are extended by one Raspberry Pi (mini-computer). This allows communication between the individual processing centers and the ERP system. </p>
 <p>The individual machining centers are integrated into a service architecture, which is gradually extended within the project by sensors and measuring devices for data acquisition and services, such as simulations.</p>
 
-<figure style="width:600px;">
+<figure style="width:80%;text-align:center;">
   <iframe width="100%" height="500px" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
@@ -16,18 +16,18 @@
 <h2>Additional Explanation Videos</h2>
 
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
-<figure style="width:1000px;">
+<figure style="width:80%;text-align:center;">
   <iframe height="400px" padding-bottom="0px" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;margin:0px;">Video 2: Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact</figcaption>
 </figure>
-<br>>
+<br>
  
 Digital & Physical Structure of the Fischertechnik Production System:
-<figure style="width:70%;">
+<figure style="width:80%;text-align:center;">
   <iframe height="450px" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
   <figcaption style="text-align:center;font-size:18px;margin:0px;">Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
 </figure>
-<br>>
+<br>
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
@@ -36,7 +36,7 @@ Digital & Physical Structure of the Fischertechnik Production System:
 </p>It was impossible to access the physical Learning Factory 4.0 remotely, and students were unable to interact with the system for their project works. Therefore, the physical Learning Factory 4.0 has been transferred to a virtual learning factory to enable online access for the students. The virtual learning factory represents a digital model of the physical learning factory without digital connections to the physical system. The digital model was created in AnyLogic® and is accessible through the AnyLogic® Cloud. The AnyLogic® Cloud is a secure web platform for running simulations. The platform provides easy access to private and public simulations, even if the user does not use the AnyLogic® software. The virtual learning factory provides similar functionalities and data as its physical twin. The data, e.g., processing times, energy demands, production failures, can be exported to EXCEL for further analysis. With the aid of action buttons or imported production schedules, the warehouse can be loaded with new material, which can then be released to the production system. Moreover, 3D models provided by fischertechnik are used to visualize the production system as realistic as possible.</p>
 
 Handling of the Virtual Learning Factory Video:
-<figure>
+<figure style="width:80%;text-align:center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/U82k1ETzMbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Background & Handling of the Virtual Learning Factory"></iframe>
   <figcaption style="text-align:center;font-size:18px;">Video 4: Background & Handling of the Virtual Learning Factory</figcaption>
 </figure>
