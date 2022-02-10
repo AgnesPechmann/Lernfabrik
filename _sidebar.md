@@ -2,14 +2,14 @@
 
 <br>
 
-* [Introduction](README#_1)
+* [Introduction](README#_c1)
 
-* [Additional Explanation Videos](README#_2)
+* [Additional Explanation Videos](README#c2)
 
-* [Virtual Learning Factory 4.0](README#_3)
+* [Virtual Learning Factory 4.0](README#c3)
 
-* [Scientific Publications](README#_4)
+* [Scientific Publications](README#c4)
 
-* <a href="./#/README#_5">Contact</a>
+* <a href="./#/README#c5">Contact</a>
 
-* [License](README#_6)
+* [License](README#c6)
