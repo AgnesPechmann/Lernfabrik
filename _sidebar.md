@@ -2,14 +2,14 @@
 
 <br>
 
-* [Introduction](./)
+* [Introduction](Readme.md)
 
-* [Additional Explanation Videos](./#2)
+* [Additional Explanation Videos](Readme.md#2)
 
-* [Virtual Learning Factory 4.0 (How To)](./#3)
+* [Virtual Learning Factory 4.0](Readme.md#3)
 
-* [Scientific Publications](./#4)
+* [Scientific Publications](Readme.md#4)
 
-* [Contact](./#5)
+* [Contact](Readme.md#5)
 
-* [License](./#6)
+* [License](Readme.md#6)
