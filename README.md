@@ -9,7 +9,7 @@
 
 <center>
 <figure style="width:80%;">
-  <iframe width="560" height="315" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
+  <iframe width="1280" height="720" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
 </center>
@@ -20,7 +20,7 @@
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
 <center>
 <figure style="width:80%;">
-  <iframe width="560" height="315" padding-bottom="0px" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
+  <iframe width="640" height="480" padding-bottom="0px" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;margin:0px;">Video 2: Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact</figcaption>
 </figure>
 </center>
