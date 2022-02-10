@@ -2,11 +2,11 @@
 
 <br>
 
-* [Introduction](./Readme.md)
+* [Introduction](./)
 
-* [Additional Explanation Videos](./Readme.md#2)
+* [Additional Explanation Videos](./README.md#2)
 
-* [Virtual Learning Factory 4.0](./Readme.md#3)
+* [Virtual Learning Factory 4.0](./#3)
 
 * [Scientific Publications](./Readme.md#4)
 
