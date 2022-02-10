@@ -9,7 +9,7 @@
 
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
-  <figcaption>Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
 
 <h2>Additional Explanation Videos</h2>
@@ -17,13 +17,13 @@
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
-  <figcaption style="text-align:center;">Video 2: Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 2: Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact</figcaption>
 </figure>
  
-Digital & Physical Structure of the Fischertechnik Production System: </p>
+Digital & Physical Structure of the Fischertechnik Production System:
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
-  <figcaption>Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
 </figure>
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
@@ -35,7 +35,7 @@ Digital & Physical Structure of the Fischertechnik Production System: </p>
 Handling of the Virtual Learning Factory Video:
 <figure>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/U82k1ETzMbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Background & Handling of the Virtual Learning Factory"></iframe>
-  <figcaption></figcaption>
+  <figcaption style="text-align:center;font-size:14px;">Video 4: Background & Handling of the Virtual Learning Factory</figcaption>
 </figure>
 
 Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS </p>
@@ -45,9 +45,9 @@ Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-
 
 Implementing an Energy Management System in a Learning Factory – A Project-Based Learning Approach: https://doi.org/10.1016/j.promfg.2020.04.068</p>
 
-![Using a semi-automated job-shop production system model to prepare students for the challenges of Industrial Cyber-Physical Systems](https://doi.org/10.1016/j.promfg.2019.03.059)</p>
+![Using a semi-automated job-shop production system model to prepare students for the challenges of Industrial Cyber-Physical Systems](https://doi.org/10.1016/j.promfg.2019.03.059)
 
-![Concept, Challenges, and Learning Benefits Developing an Industry 4.0 Learning Factory with Student Projects](https://doi.org/10.1109/INDIN41052.2019.8972065)</p>
+![Concept, Challenges, and Learning Benefits Developing an Industry 4.0 Learning Factory with Student Projects](https://doi.org/10.1109/INDIN41052.2019.8972065)
 
 <h2>Contact</h2>
 </p>Prof. Dr.-Ing. Agnes Pechmann</p>
