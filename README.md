@@ -8,23 +8,26 @@
 <p>The individual machining centers are integrated into a service architecture, which is gradually extended within the project by sensors and measuring devices for data acquisition and services, such as simulations.</p>
 
 <figure>
-  <iframe width="100%" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
+  <iframe width="100%" height="500px" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
+</p>
 
 <h2>Additional Explanation Videos</h2>
 
 Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
 <figure>
-  <iframe height="100%" padding-bottom="0px" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
+  <iframe height="400px" padding-bottom="0px" src="https://www.youtube.com/embed/RLKpROatXIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;margin:0px;">Video 2: Introduction Learning Factory: Fischertechnik Production Sytem linked with ERPsystem Transfact</figcaption>
 </figure>
+</p>
  
 Digital & Physical Structure of the Fischertechnik Production System:
 <figure>
-  <iframe width="70%" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
+  <iframe height="450px" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
   <figcaption style="text-align:center;font-size:18px;margin:0px;">Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
 </figure>
+</p>
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
