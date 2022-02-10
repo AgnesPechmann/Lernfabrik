@@ -13,7 +13,6 @@
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
 </center>
-<br>
 
 ---
 
@@ -35,7 +34,6 @@ Digital & Physical Structure of the Fischertechnik Production System:
   <figcaption style="text-align:center;font-size:18px;margin:0px;">Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
 </figure>
 </center>
-<br>
 
 ---
 
