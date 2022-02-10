@@ -8,8 +8,8 @@
 
 * [Virtual Learning Factory 4.0](./#3)
 
-* [Scientific Publications](./Readme.md#4)
+* [Scientific Publications](README.md#4)
 
-* [Contact](./Readme.md#5)
+* [Contact](#5)
 
-* [License](./Readme.md#6)
+* [License](/README.md#6)
