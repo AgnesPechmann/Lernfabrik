@@ -9,11 +9,13 @@
 
 <center>
 <figure style="width:80%;">
-  <iframe width="1280" height="720" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
+  <iframe width="640" height="480" margin-bottom="0px" src="https://www.youtube.com/embed/bqBS_RpqOy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model"></iframe>
   <figcaption style="text-align:center;font-size:18px;padding:0px;">Video 1: Introduction Learning Factory: Industry 4.0 & Fischertechnik Production System Model</figcaption>
 </figure>
 </center>
 <br>
+
+---
 
 <h2>Additional Explanation Videos</h2>
 
@@ -29,11 +31,13 @@ Communication between Fischertechnik Production Sytem and ERPsystem Transfact:
 Digital & Physical Structure of the Fischertechnik Production System:
 <center>
 <figure style="width:80%;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/EaadN3R4mmk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
   <figcaption style="text-align:center;font-size:18px;margin:0px;">Video 3: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System</figcaption>
 </figure>
 </center>
 <br>
+
+---
 
 <h2>Virtual Learning Factory 4.0 (How To)</h2>
 
@@ -44,7 +48,7 @@ Digital & Physical Structure of the Fischertechnik Production System:
 Handling of the Virtual Learning Factory Video:
 <center>
 <figure style="width:80%;text-align:center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/U82k1ETzMbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Background & Handling of the Virtual Learning Factory"></iframe>
+  <iframe width="640" height="480" src="https://www.youtube.com/embed/U82k1ETzMbE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Background & Handling of the Virtual Learning Factory"></iframe>
   <figcaption style="text-align:center;font-size:18px;">Video 4: Background & Handling of the Virtual Learning Factory</figcaption>
 </figure>
 </center>
@@ -53,16 +57,22 @@ Handling of the Virtual Learning Factory Video:
 Virtual Learning Factory Access: https://cloud.anylogic.com/model/9bf174cf-7a78-4550-a19e-16cf35127c02?mode=SETTINGS </p>
 [Table_Arrival_Template.xlsx](https://github.com/twillo-lehre-teilen/Lernfabrik/files/7838050/Table_Arrival_Template.xlsx)
 
+---
+
 <h2>Scientific Publications</h2>
 
 Implementing an Energy Management System in a Learning Factory – A Project-Based Learning Approach: https://doi.org/10.1016/j.promfg.2020.04.068</p>
 [Using a semi-automated job-shop production system model to prepare students for the challenges of Industrial Cyber-Physical Systems](https://doi.org/10.1016/j.promfg.2019.03.059)</p>
 [Concept, Challenges, and Learning Benefits Developing an Industry 4.0 Learning Factory with Student Projects](https://doi.org/10.1109/INDIN41052.2019.8972065)</p>
 
+---
+
 <h2>Contact</h2>
 </p>Prof. Dr.-Ing. Agnes Pechmann</p>
 </p>University of Applied Sciences Emden/Leer</p>
 </p>agnes.pechmann@hs-emden-leer.de</p>
+
+---
 
 <h2>License</h2>
 The Virtual Learning Factory created by Agnes Pechmann and Maximilian Zarte is - unless otherwise indicated on individual objects - licensed under the license (excluding external links)</p>
