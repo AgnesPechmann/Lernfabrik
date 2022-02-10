@@ -68,7 +68,7 @@ Implementing an Energy Management System in a Learning Factory – A Project-Bas
 <h2 id="c5">Contact</h2>
 </p>Prof. Dr.-Ing. Agnes Pechmann</p>
 </p>University of Applied Sciences Emden/Leer</p>
-</p>agnes.pechmann@hs-emden-leer.de</p>
+</p><a href="mailto:agnes.pechmann@hs-emden-leer.de">agnes.pechmann@hs-emden-leer.de</a></p>
 
 ---
 
