@@ -74,4 +74,5 @@ Implementing an Energy Management System in a Learning Factory – A Project-Bas
 
 <h2 id="c6">License</h2>
 The Virtual Learning Factory created by Agnes Pechmann and Maximilian Zarte is - unless otherwise indicated on individual objects - licensed under the license <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>.
+
 This license does not apply to content included by external links.
